@@ -1,0 +1,11 @@
+Token key for orbot
+-> xoxb-125166089878-pU7inEDisGu99z6B1vooNzvr
+
+Token key for google
+-> J-hUt72wvxQ7x5S2JEUqBAHA
+
+Token key for spreadsheet
+-> 1lr-J8LgttU-Hc3_3U9zWjPOQLJgCpToMalbpAF_YeCM
+
+Terminal code to start slack bot
+-> token=xoxb-125166089878-pU7inEDisGu99z6B1vooNzvr node slack_bot.js 
